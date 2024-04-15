@@ -1,5 +1,5 @@
 --[[
---Useage:
+--// Useage:
 local Target = {
 	["Bob"] = true,
 	Jeff  = true,
